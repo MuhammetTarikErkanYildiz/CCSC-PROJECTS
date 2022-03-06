@@ -1,0 +1,20 @@
+[PROJECT]
+Target=pic2.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=pic2.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\MUHAMMETTARIKERKAM\Documents\CCS C Projects\2pic\pic2\
+[pic2.c]
+Type=4
+[mru-list]
+1=pic2.c
+[Opened Files]
+1=pic2.c
+2=..\pic1\pic1.c
+3=
+[Units]
+Count=1
+1=pic2 (main)
